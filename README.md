@@ -11,6 +11,8 @@ Rhea and Dhruvi have contributed to the styling part and error correction.
 
 To add the task just type and click on + button.
 To remove the task click on the task that you wish to remove.
+
+Also a complete Demo of the app is uploaded with file name "Demo"
 This is how the app looks : 
 
 ![sss](https://user-images.githubusercontent.com/97980131/168843539-45e6908b-8ab4-4e1b-8655-647310c48bce.jpeg)
