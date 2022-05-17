@@ -10,4 +10,4 @@ Krishna and Rahul have contributed to the project by adding the add task feature
 Rhea and Dhruvi have contributed to the styling part and error correction.
 
 This is how the app looks : 
-![sss](https://user-images.githubusercontent.com/97980131/168842221-be930285-1bd7-41f5-ba52-58382209951f.jpeg)
+
