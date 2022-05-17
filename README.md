@@ -11,3 +11,4 @@ Rhea and Dhruvi have contributed to the styling part and error correction.
 
 This is how the app looks : 
 
+![sss](https://user-images.githubusercontent.com/97980131/168843539-45e6908b-8ab4-4e1b-8655-647310c48bce.jpeg)
